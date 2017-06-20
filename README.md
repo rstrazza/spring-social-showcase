@@ -1,3 +1,8 @@
+
+Added Google to the sample Spring Social Showcase (Spring Boot).
+
+------------------------------------
+
 Spring Social Showcase (Spring Boot)
 ====================================
 This sample app demonstrates many of the capabilities of the Spring Social project, including:
